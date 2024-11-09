@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/archive" />
       <excludeFolder url="file://$MODULE_DIR$/ordnung" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (3.Big Data und Cloud Computing)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (3.Big Data und Cloud Computing)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
